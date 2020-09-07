@@ -1,0 +1,13 @@
+<html>
+<body>
+<p> In the past two weeks I have learned some basic skills in Github. To start off with I learned how to make my first repository.
+Along with this, I learned how to commit code in HTML to the repository and how to pull the code so it appears across the repository. 
+While reading through Github Guides I learned how to create a seperate branch within my repository and how to commit changes to only one 
+of the branches. I also learned how to look at the insights to see what changes are being made to the repository. From this experience, 
+I can see how useful Github would be for multiple people working on the same project. Especially with COVID-19, and people not being able to
+meet in person. Working on this alone was not as useful but I feel I have learned a significant amout about Github that would be extremely 
+useful when I have a project to work on in Github in a team. I have also found several good resources that I can fall back on in the case
+that I am unsure about anything. 
+</p>
+</body>
+ </html>
